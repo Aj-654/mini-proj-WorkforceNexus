@@ -10,6 +10,7 @@ import { getDatabase } from "firebase/database";
 const firebaseConfig = {
   apiKey: "AIzaSyAZETb4QwjdFoFytTQ7LC4_lyvktSZXmcw",
   authDomain: "employee-a0b42.firebaseapp.com",
+  databaseURL: "https://employee-a0b42-default-rtdb.firebaseio.com",
   projectId: "employee-a0b42",
   storageBucket: "employee-a0b42.appspot.com",
   messagingSenderId: "686308370974",
